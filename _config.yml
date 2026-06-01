@@ -8,8 +8,7 @@ baseurl: "/math254-notes/"
 search_enabled: true
 
 aux_links:
-	"<- Erin Tripp's Faculty Site":
-		-"https://etripp.github.io"
-
+  "← Erin Tripp's Faculty Site":
+    - "https://etripp.github.io"
 
 math: mathjax
