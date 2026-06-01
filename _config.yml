@@ -11,7 +11,7 @@ baseurl: "/math254-notes/"
 search_enabled: true
 
 aux_links:
-  "← Erin Tripp's Faculty Site":
-    - "https://etripp.github.io"
+  "← Erin Tripp' Site":
+    - "https://eetripp.github.io"
 
 math: mathjax
