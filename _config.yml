@@ -2,7 +2,8 @@ title: "Math 254: Statistical Modeling and Applications"
 description: "" 
 remote_theme: just-the-docs/just-the-docs
 plugins:
-	- jekyll-remote-theme
+  - jekyll-remote-theme
+
 
 url: "https://eetripp.github.io"
 baseurl: "/math254-notes/"
