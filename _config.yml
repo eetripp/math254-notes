@@ -1,0 +1,15 @@
+title: "Math 254: Statistical Modeling and Applications"
+description: "" 
+theme: just-the-docs
+
+url: "https://eetripp.github.io"
+baseurl: "/math254-notes/"
+
+search_enabled: true
+
+aux_links:
+	"<- Erin Tripp's Faculty Site":
+		-"https://etripp.github.io"
+
+
+math: mathjax
