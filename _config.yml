@@ -8,6 +8,8 @@ plugins:
 url: "https://eetripp.github.io"
 baseurl: "/math254-notes/"
 
+custom_css: true 
+
 search_enabled: true
 
 aux_links:

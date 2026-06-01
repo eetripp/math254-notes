@@ -1,0 +1,16 @@
+/* Fix sidebar to a set width */
+.side-bar {
+  width: 220px;
+  min-width: 220px;
+  max-width: 220px;
+}
+
+/* Allow main content to use the remaining space */
+.main {
+  margin-left: 220px;
+  max-width: 100%;
+}
+
+.main-content {
+  max-width: 100%;
+}
