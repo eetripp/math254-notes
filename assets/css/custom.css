@@ -1,21 +1,9 @@
-/* Fix sidebar to a set width */
-:root {
-  --sidebar-width: 220px;
-  --content-width: 800px;
-}
-
 .side-bar {
-  width: 220px !important;
-  min-width: 220px !important;
-  max-width: 220px !important;
+  width: 16.5rem !important;
+  min-width: 16.5rem !important;
+  max-width: 16.5rem !important;
 }
 
-/* Allow main content to use the remaining space */
 .main {
-  margin-left: 220px;
-  max-width: 100%;
-}
-
-.main-content {
-  max-width: 100%;
+  margin-left: 16.5rem !important;
 }
